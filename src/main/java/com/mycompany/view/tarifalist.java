@@ -4,10 +4,15 @@
  */
 package com.mycompany.view;
 
+import com.mycompany.model.Tarifa;
+
 /**
  *
  * @author Daniel Pelaez
  */
 public class tarifalist {
+    public Tarifa ListadoTarifas(){
+        return null;
+    }
     
 }

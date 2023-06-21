@@ -9,5 +9,8 @@ package com.mycompany.DAO;
  * @author Daniel Pelaez
  */
 public class agregarcliente {
-    
+    public void Agregar_cliente(){
+    }
+    public void Actualizar_cliente(){
+    }
 }
